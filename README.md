@@ -2,7 +2,6 @@
 
 A cross-platform dashboard built in Flutter for monitoring equipment (gears), predicting faults, and visualizing Remaining Useful Life (RUL).
 
----
 
 ## Features
 
@@ -11,7 +10,6 @@ A cross-platform dashboard built in Flutter for monitoring equipment (gears), pr
 - **Modern Clean UI:** Interactive interfaces with custom widgets for progress, status, and fault info
 - **Consistent Styling:** Centralized color and style management
 
----
 
 ## Project Structure
 
@@ -22,7 +20,6 @@ A cross-platform dashboard built in Flutter for monitoring equipment (gears), pr
 
 <img src="./images/project_structure.png" alt="Project structure diagram" />
 
----
 
 ## UI Screenshots
 
@@ -40,7 +37,6 @@ The app uses a centralized color system for consistency.
 
 <img src='./images/colors.png' alt="App color palette" />
 
----
 
 ## Core Modules & Code
 
@@ -90,7 +86,6 @@ class Prediction {
 ```
 </details>
 
----
 
 ## Main Screens
 
@@ -115,7 +110,6 @@ class Detail extends StatelessWidget {
 }
 ```
 
----
 
 ## Custom Widgets
 
@@ -137,16 +131,9 @@ Visualizes how much useful life remains.
 Small labeled indicators (e.g., green for ok, red for failure).
 </details>
 
----
 
 ## Getting Started
 
 1. Clone the repo  
    `git clone https://github.com/Nisrine-C/pi_protype.git`
 2. Run with Flutter (see your configuration for details).
-
----
-
-## License
-
-_MIT/Specify here if needed_
