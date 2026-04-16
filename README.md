@@ -28,9 +28,10 @@ A cross-platform dashboard built in Flutter for monitoring equipment (gears), pr
 
 ### Main & Detail Interfaces
 
-<img src='./images/Interface2.png' alt="Interface screenshot 2" />
-<img src='./images/Interface1.png' alt="Interface screenshot 1" />
-
+<p align="center">
+  <img src="./images/Interface2.png" alt="Interface screenshot 2" width="45%"/>
+  <img src="./images/Interface1.png" alt="Interface screenshot 1" width="45%"/>
+</p>
 ---
 
 ## Color System
